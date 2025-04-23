@@ -1,1 +1,2 @@
 [22-Apr-2025 23:53:23 UTC] PHP Warning:  Undefined array key "host" in /workspaces/finalexamux221/.wordpress/wp-includes/pluggable.php on line 1640
+[23-Apr-2025 00:11:00 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/finalexamux221/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
